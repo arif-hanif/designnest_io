@@ -16,7 +16,7 @@ I started this website as a place to document everything I learned while transit
 - **1992** – I first get introduced to computers, Commodore 64 ski jump is my favourite game.
 - **1994** – My family immigrates to Canada.
 - **1998** – I go to Gordan Graydon Memorial Secondary school, and get my first laptop (Compaq)
-- **2000** – I meet the love of my life.
+- **2000** – I met the love of my life.
 - **2002** – I graduate from high school and go to Ryerson University for mechanical engineering.
 - **2008** – I graduate from Ryerson University and move to Herdon, VA and get my first job as a junior mechanical engineer.
 - **2008** – Go to Pakistan for the first time since imigrate to Canada, to mary the love of my life.
