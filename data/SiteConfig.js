@@ -4,7 +4,7 @@ const config = {
   siteTitleAlt: 'designnest.io',
   siteLogo: '/logos/logo-1024.png',
   siteUrl: 'https://designnest.io',
-  repo: 'https://github.com/taniarascia/taniarascia.com',
+  repo: 'https://github.com/designnestio/designnest_io',
   pathPrefix: '',
   dateFromFormat: 'YYYY-MM-DD',
   dateFormat: 'MMMM Do, YYYY',
