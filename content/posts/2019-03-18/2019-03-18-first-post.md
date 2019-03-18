@@ -8,6 +8,8 @@ slug: first-post
 categories:
   - Random
   - Popular
+tags:
+  - random
 ---
 
 This is the first post!
