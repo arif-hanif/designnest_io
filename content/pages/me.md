@@ -17,8 +17,7 @@ I started this website as a place to document everything I have learned and curr
 - **1994** – Family immigrates to Canada, live in Kingston, Ontario.
 - **1995** – Moved to Brampton, Ontario.
 - **1998** – Attended Gordan Graydon Memorial Secondary school, and got my first laptop (Compaq)
-- **2000** – Met the love of my life, Sahar Zafar.
-- **2002** – Graduated from high school and went to Ryerson University for mechanical engineering.
+- **2002** – Graduated from high school and went to Ryerson University for mechanical engineering, Met the love of my life, Sahar Zafar.
 - **2008** – Graduated from Ryerson University and moved to Herdon, VA in USA and got my first job as a junior mechanical engineer.
 - **2008** – Went to Pakistan for the first time since my family imigrated to Canada, to mary the love of my life.
 - **2017** – Switched careers from mechanical engineer to software engineer.
