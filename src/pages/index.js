@@ -39,10 +39,10 @@ class Index extends Component {
             <Link className="button" to="/me" target="_blank">
               About me
             </Link>
-            <a className="button" href="https://github.com/taniarascia" target="_blank">
+            <a className="button" href="https://github.com/arif-hanif" target="_blank">
               GitHub
             </a>
-            <a className="button" href="https://twitter.com/taniarascia" target="_blank">
+            <a className="button" href="https://twitter.com/hanif_arif" target="_blank">
               Twitter
             </a>
           </div>
