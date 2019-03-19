@@ -62,6 +62,15 @@ class Index extends Component {
             <h2>Open Source Projects</h2>
             <ProjectListing projects={projects}/>
           </section>
+
+          <section className="section">
+            <h2>Acknowledgements</h2>
+            <p>
+              <a href="https://www.taniarascia.com/" target="_blank">
+                Tania Rascia
+              </a>
+              , Her blog UI/UX, fell in love with it and used it for this site.</p>
+          </section>
         </div>
       </Layout>
     )
