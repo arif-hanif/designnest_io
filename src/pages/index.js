@@ -20,22 +20,13 @@ class Index extends Component {
         <div className="container">
           <div className="lead">
             <h1>
-              Hi, I'm Arif. I am an engineer that works
-              <strong className="pink">
+              Hi, I am Arif. I am an engineer that works
+              <strong className="green">
                 in the AEC industry</strong>
-              and write
-              <strong className="pink">code</strong>
-              to bring about change.
+              and I write
+              <strong className="green">code</strong>
+              to help people claw their way out of spreadsheet hell.
             </h1>
-            <p>
-              I'm
-              <strong>developer, designer,</strong>
-              and
-              <strong>writer</strong>. I created this site to document everything I learn, and
-              share a bit of myself with the world. My site is
-              <strong>free</strong>
-              and has no ads, affiliate links, or sponsored posts.
-            </p>
             <Link className="button" to="/me" target="_blank">
               About me
             </Link>

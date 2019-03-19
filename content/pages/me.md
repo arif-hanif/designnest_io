@@ -4,7 +4,7 @@ slug: me
 template: page
 ---
 
-My name is Arif. I’m a developer, engineer and designer from Maryland.
+My name is Arif. I am a developer, engineer and designer from Maryland.
 
 I started this website as a place to document everything I have learned and currently learning while transitioning from a mechanical engineer to a software engineer. I want to create a free resources to teach people, as countless others have done before me.
 
