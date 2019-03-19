@@ -11,7 +11,7 @@ const config = {
   siteDescription: 'Arif Hanif is a developer, designer, and writer who breaks down complex concepts' +
       ' for all skill levels.',
   siteRss: '/rss.xml',
-  googleAnalyticsID: 'UA-42068444-1',
+  googleAnalyticsID: 'UA-97059600-1',
   disqusShortname: 'designnest',
   postDefaultCategoryID: 'Tech',
   userName: 'arif.hanif3',
