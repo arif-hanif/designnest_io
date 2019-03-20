@@ -26,8 +26,8 @@ Stephen Grider course on Udemy is a great resource with over 40 hours of content
 
 - React is a JavaScript library - one of the most popular ones, with [over 120,000 stars on GitHub](https://github.com/facebook/react).
 - React is an open-source project created by Facebook.
-- React can be used to build simple to very complex user interfaces (UI) on the front end.
-- React is the **view** layer and you can use it with any API system. I will later show examples with django and asp.net APIs.
+- React can be used to build simple to very complex user interfaces (UI).
+- React is the **view** layer and you can use it with any API framework. I will later show examples with django and asp.net APIs.
 
 One of the most important aspects of React is the fact that you can create **components**, which are like custom, reusable HTML elements, to quickly and efficiently build user interfaces. React also streamlines how data is stored and handled, using **state** and **props**.
 
@@ -99,4 +99,4 @@ export default App;
 
 ![](./create-react-app-modified.png)
 
-In the next post I will introduce what we will build to get more use to React. See you soon.
+In the comming posts, I will introduce what we will build to get more use to React. See you soon.
